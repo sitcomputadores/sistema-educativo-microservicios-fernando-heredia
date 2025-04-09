@@ -21,3 +21,7 @@ Aplicar los conceptos de microservicios, configuración distribuida, descubrimie
 - **Nombre:** Luis Fernando Heredia
 - **Correo institucional:** luis.heredia.4774@miremington.edu.co
 - **Curso:**  LENGUAJE DE PROGRAMACIÓN AVANZADO 2 - PARCIAL 2-MICROSERVICIOS
+![alt text](image.png)
+
+
+![alt text](image-1.png)
