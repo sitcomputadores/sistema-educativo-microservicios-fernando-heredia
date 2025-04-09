@@ -25,3 +25,6 @@ Aplicar los conceptos de microservicios, configuración distribuida, descubrimie
 
 
 ![alt text](image-1.png)
+
+
+![alt text](image-2.png)
